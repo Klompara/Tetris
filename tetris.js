@@ -1,14 +1,3 @@
-/* Copyright (C) 2018 Kleinlercher Michael - All Rights Reserved
- * You may use, distribute and modify this code under the
- * terms of the FaKe license, which unfortunately won't be
- * written for another century.
- *
- * You should have received a copy of the FaKe license with
- * this file. If not, please write to: kleinlercher.michael@gmail.com,
- * or visit : riptosscreencorn.bplaced.net/iamafaggot
- * I know my scoreboard is unsafe but pls don't manipulate it thx <3
- */
-
 Array.prototype.remByVal = function(val) {
 	var removed = false;
     for (var i = 0; i < this.length && !removed; i++) {
